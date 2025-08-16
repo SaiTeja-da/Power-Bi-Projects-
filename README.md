@@ -31,3 +31,5 @@ Technical Details
   SQL Databases (e.g., Sales and Order data)
   Excel or CSV files (e.g., Product Lists, Price Lists)
   Measures & Calculations: Includes custom DAX measures for calculating profitability, growth rates, and other key metrics.
+
+  ![Dashboard 1](D1.png)
