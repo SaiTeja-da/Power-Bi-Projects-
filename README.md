@@ -32,11 +32,11 @@ Strategic financial  Insights Dashboard: Analyzing Food & Beverages Products, Se
   Excel or CSV files (e.g., Product Lists, Price Lists)
   Measures & Calculations: Includes custom DAX measures for calculating profitability, growth rates, and other key metrics.
 
-### Product performance 
+### Product performance Analysis
   ![Dashboard 1](D1.png)
 ### Seasonal Trend Analysis
 ![Dashboard 2](D2.png)
-### Revenue performance Analysis by country & category
+### Revenue performance Analysis by Year
 ![Dashboard 3](D3.png)
-### 
+### Revenue performance Analysis by Country
 ![Dashboard 4](D4.png)
