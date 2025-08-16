@@ -1,5 +1,5 @@
 # Power-Bi-Projects-
-Strategic financial  Insights Dashboard: Analyzing Food &amp; Beverages Products, Seasonal and Geographic Trends
+Strategic financial  Insights Dashboard: Analyzing Food & Beverages Products, Seasonal and Geographic Trends
   
 Overview
   This repository contains a Power BI template (.pbit) file for a Strategic Financial Insights Dashboard. This dashboard is designed to analyze financial data for Food & Beverages products, with a focus on identifying and understanding Seasonal and Geographic Trends. The template includes the data model, queries, and report structure necessary to analyze key financial metrics such as revenue, profitability, and sales volume. It's ready to connect to your specific financial data sources.
