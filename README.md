@@ -12,8 +12,7 @@ Overview
 Key Features & Analysis
   The dashboard is structured to provide a multi-layered view of the business performance:
   Product Performance Analysis:
-  Top/Bottom Products: Identify the best-selling and least-selling products by revenue and units sold.
-  Profitability Metrics: Analyze gross profit, net profit margins, and cost of goods sold (COGS) at a product level.
+  Profitability Metrics: Revenue and sales performance.
   Category Breakdown: Compare the performance of different food and beverage categories (e.g., packaged goods, beverages, fresh produce).
   Seasonal Trend Analysis:
   Time-Series Charts: Visualize monthly, quarterly, and yearly trends for sales, revenue, and profit.
@@ -27,9 +26,8 @@ Key Features & Analysis
 Technical Details
   Platform: Power BI Desktop
   Output: Power BI Template (.pbit) file
-  Data Model: A star schema model with a central Fact_Sales table and dimension tables for Dim_Products, Dim_Date, and Dim_Geographic_Location.
+  Data Model: A star schema model with a central Fact_Sales table and dimension tables for Products and Geographic_Location.
   Data Sources: Designed to connect to various data sources, including but not limited to:
   SQL Databases (e.g., Sales and Order data)
   Excel or CSV files (e.g., Product Lists, Price Lists)
-  Cloud services (e.g., Google Analytics, CRM data)
   Measures & Calculations: Includes custom DAX measures for calculating profitability, growth rates, and other key metrics.
