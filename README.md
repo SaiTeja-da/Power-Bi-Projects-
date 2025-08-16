@@ -34,7 +34,7 @@ Strategic financial  Insights Dashboard: Analyzing Food & Beverages Products, Se
 
 ### put here
   ![Dashboard 1](D1.png)
-### put here
+### Product performance & Seasonal Trend Analysis
 ![Dashboard 2](D2.png)
 ### put here
 ![Dashboard 3](D3.png)
